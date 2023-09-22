@@ -1,0 +1,51 @@
+body{
+    background-color: rgba(236, 246, 224, 0.891); 
+}
+.header{
+    display: flex;
+    font-size: 22px;
+    justify-content: space-between;
+}
+.about h1{
+    font-size: 25px;
+}
+.about{
+    background-color: thistle;
+    text-align: center;
+    text-size-adjust: 20px;
+    margin: 0 0;
+    padding: 20px 100px;
+}
+.title{
+    background-color: aquamarine;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    padding: 20px;
+}
+section{
+    background-color: white;
+    padding: 20px;
+}
+section h1{
+    text-align: center;
+}
+.interest{
+    background-color: rgb(155, 61, 242);
+    text-align: center;
+    color: white;
+}
+.hobbies{
+    background-color: orange;
+    color: white;
+}
+.address{
+    background-color: rgb(246, 40, 40);
+    text-align: center;
+    color: white;
+}
+.baseline {
+    padding: 20px;
+    background-color: greenyellow;
+    text-align: center;
+}
